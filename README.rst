@@ -1,40 +1,72 @@
 OBS Studio <https://obsproject.com>
 ===================================
 
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OBS 工作室 &lt; </font></font><a href="https://obsproject.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt;</font></font></h1><a id="user-content-obs-studio-httpsobsprojectcom" class="anchor" aria-label="永久链接：OBS Studio <https://obsproject.com>" href="#obs-studio-httpsobsprojectcom"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<a href="https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster"><img alt="OBS Studio 构建状态 - GitHub Actions" src="https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master" style="max-width: 100%;"></a>
-<a href="https://crowdin.com/project/obs-studio" rel="nofollow"><img alt="OBS Studio翻译项目进展" src="https://camo.githubusercontent.com/892809a440bb5ca72d1e4c04f9d2323e0fd5f8993d81d4c6fc9f1cff0bd1abb1/68747470733a2f2f6261646765732e63726f7764696e2e6e65742f6f62732d73747564696f2f6c6f63616c697a65642e737667" data-canonical-src="https://badges.crowdin.net/obs-studio/localized.svg" style="max-width: 100%;">
-</a>
-<a href="https://obsproject.com/discord" rel="nofollow"><img alt="OBS Studio Discord 服务器" src="https://camo.githubusercontent.com/75b315b8503f25b517cf3de607f99b45fc5ddb03fae56dfd11b204ff23ebc843/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3334383937333030363538313932333834302e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332" data-canonical-src="https://img.shields.io/discord/348973006581923840.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2" style="max-width: 100%;"></a>
-<a name="user-content-what-is-obs-studio"></a>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是 OBS Studio？</font></font></h2><a id="user-content-what-is-obs-studio" class="anchor" aria-label="永久链接：什么是 OBS Studio？" href="#what-is-obs-studio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OBS Studio 是一款用于高效捕获、合成、编码、录制和流式传输视频内容的软件。</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是根据 GNU 通用公共许可证 v2（或任何更高版本）分发的 - 有关更多详细信息，请参阅随附的 COPYING 文件。</font></font></p>
-<a name="user-content-quick-links"></a>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速链接</font></font></h2><a id="user-content-quick-links" class="anchor" aria-label="永久链接：快速链接" href="#quick-links"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站：</font></font><a href="https://obsproject.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助/文档/指南：</font></font><a href="https://github.com/obsproject/obs-studio/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/obsproject/obs-studio/wiki</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛：</font></font><a href="https://obsproject.com/forum/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com/forum/</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建说明：</font></font><a href="https://github.com/obsproject/obs-studio/wiki/Install-Instructions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/obsproject/obs-studio/wiki/Install-Instructions</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员/API 文档：</font></font><a href="https://obsproject.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com/docs</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捐赠/支持/赞助：</font></font><a href="https://obsproject.com/contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com/contribute</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误跟踪器：</font></font><a href="https://github.com/obsproject/obs-studio/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https：//github.com/obsproject/obs-studio/issues</font></font></a></li>
-</ul>
-<a name="user-content-contributing"></a>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果你想资助或赞助该项目，你可以通过</font></font><a href="https://www.patreon.com/obsproject" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patreon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://opencollective.com/obsproject" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenCollective</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://www.paypal.me/obsproject" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PayPal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行。请参阅我们的</font></font><a href="https://obsproject.com/contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息。</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您希望为项目贡献代码，请务必阅读编码和提交指南：
- </font></font><a href="https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员/API 文档可在此处找到：
- </font></font><a href="https://obsproject.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com/docs</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您希望贡献翻译，请不要提交拉取请求。相反，请使用 Crowdin。有关更多信息，请阅读此页面：
- </font></font><a href="https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他贡献方式包括在我们的论坛或社区聊天中为人们提供支持。请将支持限制在您完全了解的话题上——坏建议比没有建议更糟糕。当涉及到您不完全了解或理解的事情时，请参考官方帮助或官方渠道。</font></font></li>
-</ul>
-<a name="user-content-sast-tools"></a>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SAST 工具</font></font></h2><a id="user-content-sast-tools" class="anchor" aria-label="永久链接：SAST 工具" href="#sast-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a href="https://pvs-studio.com/pvs-studio/?utm_source=website&amp;utm_medium=github&amp;utm_campaign=open_source" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PVS-Studio</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - C、C++、C# 和 Java 代码的静态分析器。</font></font></p>
+.. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master
+   :alt: OBS Studio Build Status - GitHub Actions
+   :target: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster
 
-</article></div>
+.. image:: https://badges.crowdin.net/obs-studio/localized.svg
+   :alt: OBS Studio Translation Project Progress
+   :target: https://crowdin.com/project/obs-studio
+
+.. image:: https://img.shields.io/discord/348973006581923840.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2
+   :alt: OBS Studio Discord Server
+   :target: https://obsproject.com/discord
+
+What is OBS Studio?
+-------------------
+
+OBS Studio is software designed for capturing, compositing, encoding,
+recording, and streaming video content, efficiently.
+
+It's distributed under the GNU General Public License v2 (or any later
+version) - see the accompanying COPYING file for more details.
+
+Quick Links
+-----------
+
+- Website: https://obsproject.com
+
+- Help/Documentation/Guides: https://github.com/obsproject/obs-studio/wiki
+
+- Forums: https://obsproject.com/forum/
+
+- Build Instructions: https://github.com/obsproject/obs-studio/wiki/Install-Instructions
+
+- Developer/API Documentation: https://obsproject.com/docs
+
+- Donating/backing/sponsoring: https://obsproject.com/contribute
+
+- Bug Tracker: https://github.com/obsproject/obs-studio/issues
+
+Contributing
+------------
+
+- If you would like to help fund or sponsor the project, you can do so
+  via `Patreon <https://www.patreon.com/obsproject>`_, `OpenCollective
+  <https://opencollective.com/obsproject>`_, or `PayPal
+  <https://www.paypal.me/obsproject>`_.  See our `contribute page
+  <https://obsproject.com/contribute>`_ for more information.
+
+- If you wish to contribute code to the project, please make sure to
+  read the coding and commit guidelines:
+  https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst
+
+- Developer/API documentation can be found here:
+  https://obsproject.com/docs
+
+- If you wish to contribute translations, do not submit pull requests.
+  Instead, please use Crowdin.  For more information read this page:
+  https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS
+
+- Other ways to contribute are by helping people out with support on
+  our forums or in our community chat.  Please limit support to topics
+  you fully understand -- bad advice is worse than no advice.  When it
+  comes to something that you don't fully know or understand, please
+  defer to the official help or official channels.
+
+
+SAST Tools
+----------
+
+`PVS-Studio <https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source>`_ - static analyzer for C, C++, C#, and Java code.
